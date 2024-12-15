@@ -1,8 +1,8 @@
-# Login Authentication Project
+# 🔐 Login Authentication Project
 
 This project is a Node.js application that implements user authentication using Express, MongoDB, and JSON Web Tokens.
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 LoginAuthAuth/
@@ -22,12 +22,12 @@ LoginAuthAuth/
 └── README.md
 ```
 
-## Prerequisites
+## 📋 Prerequisites
 
 - Node.js
 - MongoDB
 
-## Installation
+## 🚀 Installation
 
 1. Clone the repository:
    ```
@@ -51,7 +51,7 @@ LoginAuthAuth/
    SECRET_ACCESS_TOKEN="your_secret_access_token"
    ```
 
-## Running the Application
+## 🏃‍♂️ Running the Application
 
 To run the application in development mode:
 
@@ -61,22 +61,22 @@ npm run dev
 
 This will start the server using nodemon, which will automatically restart the server when file changes are detected.
 
-## API Endpoints
+## 🛣️ API Endpoints
 
 (Add your API endpoints and their descriptions here)
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-- Express.js: Web application framework
-- Mongoose: MongoDB object modeling tool
-- bcrypt: Password hashing
-- jsonwebtoken: JWT implementation
-- dotenv: Environment variable management
+- **Express.js**: Web application framework
+- **Mongoose**: MongoDB object modeling tool
+- **bcrypt**: Password hashing
+- **jsonwebtoken**: JWT implementation
+- **dotenv**: Environment variable management
 
-## Author
+## 👨‍💻 Author
 
 Mikael Engvall
 
-## License
+## 📄 License
 
 This project is licensed under the ISC License.
