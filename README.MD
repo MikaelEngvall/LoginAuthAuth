@@ -50,6 +50,11 @@ LoginAuthAuth/
    PORT=5005
    SECRET_ACCESS_TOKEN="your_secret_access_token"
    ```
+5. Create a secret token
+   ```
+   Type node in your terminal, press the return key,
+   Type crypto.randomUUID(20).toString(‘hex’)
+   ```
 
 ## 🏃‍♂️ Running the Application
 
