@@ -1,0 +1,6 @@
+#DATABASE_STRING
+URI="uri to your mongodb"
+#SERVER_PORT
+PORT=5005
+#TOKEN
+SECRET_ACCESS_TOKEN="create your access token"
